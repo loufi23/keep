@@ -1,0 +1,74 @@
+.banner{
+    background: url('../images/keep1.webp') center center fixed no-repeat;
+    height: 550px;
+    background-size: cover;
+}
+
+.button{
+    font-size: 16px; 
+    font-family:arial,serif;
+}
+.navbar a{
+    font-size: 28px;
+    color:#fff;
+
+}
+.banner h1{
+    color: #fff;
+}
+.btn-group{
+    /* display: none; */
+    position: relative;
+    left: 25%;
+    transform: translate(-45%, 5%);
+    border: 2px solid #666;
+    z-index: 9;
+}
+.btn-group-click{
+    opacity: 1;
+
+}
+.fete{
+    font-family:'Shadows Into Light Two', sans-serif;
+    font-size: 50px;
+}
+.cristel{
+    background-color: yellow;
+}
+.liste{
+    background-color: aquamarine;
+    font-size: 22px;
+}
+.image{
+   background-color: orange;
+}
+.titre{
+    background-color: coral;
+}
+.paralax{
+    background:linear-gradient(rgba(98,98,98,0.5),rgba(98, 98, 98, 0.5)), url(../images/para.jpg) center center no-repeat;
+    height: 500px;
+    background-size: cover;
+}
+.banner2{
+    background: url('../images/keep.jpg') center center no-repeat;
+    height: 450px;
+    background-size: cover;
+    color: #fff;
+}
+.foot {
+    height: 50px;
+    width: 100%;
+    background-color: #d0d0d0;
+}
+.foot li{
+    display: inline-block;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+}
+.foot li a{
+    text-decoration-line: none;
+    color: #8a8a8a;
+    list-style-type: circle;
+
+}
